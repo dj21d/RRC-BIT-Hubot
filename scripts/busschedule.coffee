@@ -91,4 +91,4 @@ module.exports = (robot) ->
           resultsData += "Stop Number #{key} | #{stopsJSON[s][key]}\n"
           resultsCount++
       s++
-    msg.send "```Search Results (limited to 25):\n#{resultsData}```”
+    msg.send "```Search Results (limited to 25):\n#{resultsData}```"
