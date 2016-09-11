@@ -4,6 +4,7 @@
   "hubot-heroku-keepalive",
   "hubot-google-images",
   "hubot-google-translate",
+  "hubot-script-ical",
   "hubot-plusplus",
   "hubot-pugme",
   "hubot-maps",
